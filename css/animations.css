@@ -1,0 +1,1 @@
+.reveal{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s ease}.reveal.visible{opacity:1;transform:none}@keyframes pulse{50%{transform:scale(1.04)}}.btn-nova:hover i{animation:pulse .45s ease}
